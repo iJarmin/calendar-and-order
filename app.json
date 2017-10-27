@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/orderTime/index",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "时间预定插件",
+    "navigationBarTextStyle":"black"
+  }
+}
